@@ -22,7 +22,7 @@ for linha in versos:
 #em que, se 'try' não funciona, ele procura um 'except' que contenha o erro relatado e executa oq tem lá.
 #formato: 'try-except-else'. Se quiser que o programa falhe, mas continue operando sem reclamar, faça: 
 #'try: -comando- except: pass
-
-
+#NOTA: na parte dos files, dá pra você salvar eles usando os comandos json.dumps() e json.loads(); só usar 'import json';
+#pra receber input do usuario e lembrar, basta usar um TRY-EXCEPT com o json
 
 
