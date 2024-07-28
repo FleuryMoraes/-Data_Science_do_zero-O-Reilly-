@@ -40,3 +40,9 @@ while (True):
         continue
     else:
         break
+
+#o armazenamento de dados e manipulação em python se dá de 2 principais maneiras: CSV e JSON
+#CSV = 'comma-separated-values' ('import csv' pra usar); 
+#JSON = 'java-script-object-nottation' ('import json' pra usar);
+#usamos para manipular ambos os tipos de arquivos as bibliotecas 'matplotlib' e 'plotly' do python (cap 16 e 17 do livro)
+#API = 'application-programming-interface'; é uma interface que permite extração in real time de dados de sites pra usar no python
